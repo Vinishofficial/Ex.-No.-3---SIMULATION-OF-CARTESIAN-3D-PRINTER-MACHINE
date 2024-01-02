@@ -59,9 +59,18 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![image](https://github.com/Vinishofficial/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/146931793/b08ac2a2-6344-42f3-a867-bbf7109300a9)
-![image](https://github.com/Vinishofficial/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/146931793/f1742ecb-5e05-43bd-b215-4970574e1689)
-![image](https://github.com/Vinishofficial/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/146931793/a3382965-3b24-4950-a28e-4027aa3b411c)
+![Screenshot 2024-01-02 183643](https://github.com/Vinishofficial/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/146931793/1027a0cf-9917-4442-b04c-587dcf4cd5a2)
+
+![Screenshot 2024-01-02 183758](https://github.com/Vinishofficial/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/146931793/3b13a116-3db7-4bb2-8b7a-2f1bbcda58fe)
+
+![Screenshot 2024-01-02 183830](https://github.com/Vinishofficial/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/146931793/4604c61d-9153-4ccc-b6a4-3501f3749eb6)
+
+![Screenshot 2024-01-02 184011](https://github.com/Vinishofficial/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/146931793/45cae7ed-290d-4755-bf1e-3ad9db68c449)
+
+![Screenshot 2024-01-02 184654](https://github.com/Vinishofficial/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/146931793/d0e61b2d-40e8-45c4-9b94-aa8ae766ac6d)
+
+
+
 
 
 
